@@ -1,2 +1,3 @@
 # blackjackgame
-The black jack gamr
+The black jack game
+
